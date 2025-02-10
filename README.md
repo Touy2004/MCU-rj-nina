@@ -50,6 +50,9 @@
 - LED: ໃຊ້ໄຟ LED ໃນຕົວຢູ່ pin 13 ຂອງ Arduino.
 - ການສະຫນອງພະລັງງານ: Arduino ສະຫນອງພະລັງງານໃຫ້ກັບວົງຈອນທັງຫມົດ.
 
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/59ac41d6-0fcb-4e46-9925-2caac7794004" />
+<img width="221" alt="image" src="https://github.com/user-attachments/assets/0679cc57-7349-47d4-ba9c-3eeeeb122109" />
+
 ### 4. **ໂຄດທີ່ໃຊ້**
 ```
 // C++ code
@@ -86,6 +89,8 @@ void loop()
 - ໃຊ້ delay(1000) ເພື່ອລໍຖ້າ 1 ວິນາທີກ່ອນທີ່ຈະເປີດ ຫຼື ປິດ LED.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/1OA5NuSi3UV-lab-0-blink>
+<img width="269" alt="image" src="https://github.com/user-attachments/assets/5392230a-a1fb-48ca-84a3-807e45b8fb40" />
+
 
 # ບົດທີ 1 Experiment Blink
 
@@ -104,6 +109,10 @@ void loop()
 ### 3. **ການເຊື່ອມຕໍ່ວົງຈອນ**
 
 LED ແມ່ນເຊື່ອມຕໍ່ກັບ pin output ໂດຍຜ່ານຕົວຕ້ານທານ. ດ້ວຍຂາລົບທີ່ເຊື່ອມຕໍ່ກັບ GND, Microcontroller Arduino ຈະປ່ຽນສະຖານະຂອງ output ເພື່ອເຮັດໃຫ້ໄຟ LED ກະພິບ.
+
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/3b5957e5-d292-4fed-8b20-f896c9a4f61f" />
+<img width="276" alt="image" src="https://github.com/user-attachments/assets/24fcb7fe-006f-4683-bbae-836b8662f419" />
+
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 ```
@@ -143,6 +152,8 @@ void loop()
 - ຂະ​ບວນ​ການ​ນີ້​ແມ່ນເຮັດ​ຊ​້​ໍ​າ​ຢ່າງ​ບໍ່​ມີ​ກໍາ​ນົດ, ເຮັດໃຫ້ເກີດໄຟກະພິບ​.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ** <https://www.tinkercad.com/things/kHyeIreJXGU-mouktavanh-vonglokham>
+<img width="256" alt="image" src="https://github.com/user-attachments/assets/38ac7e31-2b03-423d-9fc9-f8f0a17f9414" />
+
 
 # ບົດທີ 2 Switch
 
@@ -163,6 +174,9 @@ void loop()
 - ປຸ່ມກົດແມ່ນເຊື່ອມຕໍ່ກັບ pin 2 (ການປ້ອນຂໍ້ມູນດິຈິຕອນ) ຂອງ Arduino.
 - ຂາຫນຶ່ງຂອງປຸ່ມກົດແມ່ນເຊື່ອມຕໍ່ກັບ GND ແລະ ຂາອື່ນແມ່ນເຊື່ອມຕໍ່ກັບ pin 2.
 - LED ແມ່ນເຊື່ອມຕໍ່ກັບ pin LED ໃນຕົວ (ຫຼື pin ດິຈິຕອນອື່ນ) ຜ່ານຕົວຕ້ານທານ. ຂາລົບແມ່ນເຊື່ອມຕໍ່ກັບ GND.
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/a01b8cc3-2604-4107-a2fd-33367da36105" />
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/e92403a1-c34d-4a91-919b-310a2e52f447" />
+
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 
@@ -224,6 +238,8 @@ void loop()
 - ຂະບວນການນີ້ເຮັດຊ້ຳຢ່າງຕໍ່ເນື່ອງ, ຕອບສະໜອງຕາມສະຖານະຂອງປຸ່ມກົດ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/1eFpRFe7adp-lab-2-switch->
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/cd383bad-e156-4a44-9c03-4a88fae7903c" />
+
 
 # ບົດທີ 3 RGB
 
@@ -247,6 +263,9 @@ RGB LED ມີ 4 pins ຄື: pin ສໍາລັບແຕ່ລະສີ (ສ�
 - Pin 10: ສີຂຽວ
 - Pin 11: ສີຟ້າ
 - Cathode ທົ່ວໄປ: ເຊື່ອມຕໍ່ກັບ GND
+<img width="354" alt="image" src="https://github.com/user-attachments/assets/0619a488-5c63-472e-8f01-65d9e85bba59" />
+<img width="281" alt="image" src="https://github.com/user-attachments/assets/7691ca39-dab8-4b44-b35c-24c9821aa73a" />
+
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 
@@ -463,6 +482,8 @@ void allColors()
 - ເອັບເຟັກສີທັງໝົດ: ຟັງຊັ່ນ allColors() ໝູນວຽນຜ່ານສີຕ່າງໆເຊັ່ນ: ສີຂາວ, ສີແດງ, ສີຂຽວ, ສີຟ້າ, ແລະ ການປະສົມຂອງສີເຫຼົ່ານີ້ເພື່ອການສະແດງຜົນແບບຄົບວົງຈອນ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/kVTnRe9RDUO-lab-3-rgb-or-led-with-serial>
+<img width="252" alt="image" src="https://github.com/user-attachments/assets/5ffeb26a-f054-4068-8148-e0492592ca17" />
+
 
 # ບົດທີ 4 Buzzer
 
@@ -476,6 +497,8 @@ void allColors()
 - Buzzer
 - Jumper wires
 - Breadboard (ຖ້າຕ້ອງການ)
+<img width="355" alt="image" src="https://github.com/user-attachments/assets/9171984e-ebb0-43a2-a208-44ab430ec6a9" />
+
 
 ### 3. **ການເຊື່ອມຕໍ່ວົງຈອນ**
 
@@ -693,6 +716,8 @@ void loop()
 - ການຢຸດສຽງ: ຟັງຊັນ noTone() ຖືກນໍາໃຊ້ເພື່ອຢຸດສຽງເມື່ອໂນດໄດ້ສໍາເລັດການຫຼິ້ນ ແລະ ຈະມີ(delay()) ເພື່ອໃຫ້ທຸກໆໂນດມີເວລາຢຸດທີ່ເຫມາະສົມ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/lXYQiqLB7aJ-lab-4-active-buzzer>
+<img width="236" alt="image" src="https://github.com/user-attachments/assets/99c236ea-b0c0-4c81-b2e0-7501b54946ed" />
+
 
 # ບົດທີ 5 Potentiometer
 
@@ -718,6 +743,8 @@ Potentiometer ຫຼື ຕົວປັບແຮງດັນແມ່ນຕົ�
 - ເຊື່ອມຕໍ່ LED ກັບ pin 11 ໃນ Arduino.
 - ຂາຍາວ (Anode pin) ຂອງ LED ໄປກັບ pin 11.
 - ຂາສັ້ນ (ຂາ Cathode) ຂອງ LED ໂດຍຜ່ານ 220Ω resistor ຕໍ່ກັບ GND.
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/764d746e-1db0-4295-ba1e-3ec76e84512f" />
+<img width="282" alt="image" src="https://github.com/user-attachments/assets/56be3fa0-a488-49b3-a565-a7338360d6f7" />
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 ```
@@ -766,6 +793,8 @@ void loop()
 - ຈໍສະແດງຜົນ Serial: ຄ່າ Potentiometer ແລະ ຄວາມສະຫວ່າງ LED ຖືກສະແດງຢູ່ໃນ Serial Monitor.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/d72uq8bFCdH-lab-5-potentiometer-volume>
+<img width="252" alt="image" src="https://github.com/user-attachments/assets/c591775a-bf99-486e-a1ea-eab07bf3ec1f" />
+
 
 # ບົດທີ 6 Relay
 
@@ -794,6 +823,9 @@ void loop()
 - COM (ທົ່ວໄປ) pin ຂອງ relay →ເຊື່ອມຕໍ່ກັບ pole ບວກຂອງ LED ໄດ້.
 - NO (ເປີດປົກກະຕິ) pin of relay → ເຊື່ອມຕໍ່ກັບ 5V ຂອງ Arduino.
 - ຂົ້ວລົບຂອງ LED → 220Ω resistor → GND ຂອງ Arduino.
+<img width="259" alt="image" src="https://github.com/user-attachments/assets/d8cd4af8-8766-4827-ae97-20b81dcac284" />
+<img width="267" alt="image" src="https://github.com/user-attachments/assets/467e85e9-e336-4362-9728-5092c0bf91e8" />
+
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 
@@ -830,6 +862,8 @@ void loop()
 - ເຮັດຊ້ຳ: ລະບົບເປີດ ແລະ ປິດໄຟ LED ທຸກ 1 ວິນາທີ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/c0SurfXM1nl-lab-6-relay-with-12v>
+<img width="245" alt="image" src="https://github.com/user-attachments/assets/45b1b728-ce51-40a3-8c3d-b1b26748bdf5" />
+
 
 # ບົດທີ 7 Servo
 
@@ -853,6 +887,8 @@ void loop()
 - ເຊື່ອມຕໍ່ pin 1 ຂອງ potentiometer ກັບ 5V ໃນ Arduino.
 - ເຊື່ອມຕໍ່ pin 2 (ກາງ) ຂອງ Potentiometer ກັບ A0 ຂອງ Arduino.
 - ເຊື່ອມຕໍ່ pin 3 ຂອງ Potentiometer ກັບ GND ຂອງ Arduino.
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/c2682ed4-ff55-4c1f-a119-d9f247ffc16b" />
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/57bf41e8-57dd-4a21-b01f-ef93ca747c2a" />
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 
@@ -902,6 +938,8 @@ void loop()
 - ໃນເວລາທີ່ໝຸນ potentiometer ເຫັນໄດ້ວ່າ servo motor ໝຸນຕາມມຄ່າທີ່ໄດ້ຮັບ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/ggDfNy4C7iI-lab7-sweep-and-knob-servo-motor->
+<img width="242" alt="image" src="https://github.com/user-attachments/assets/b4b29930-0522-42a9-b7eb-f440f21d85ae" />
+
 
 # ບົດທີ 8 Seven Segment
 
@@ -927,6 +965,8 @@ a → 2, b → 3, c → 4, d → 5, e → 6, f → 7, g → 8
 
 - ເຊື່ອມຕໍ່ cathode ທົ່ວໄປ (CC) ຫຼື anode ທົ່ວໄປ (CA) pin ກັບ GND ຫຼື 5V ຕາມປະເພດຂອງ 7-Segment.
 - ໃຊ້ຕົວຕ້ານທານ 220Ω ເປັນຊຸດກັບແຕ່ລະ pin a-g ເພື່ອຫຼຸດຜ່ອນກະແສໄຟຟ້າ.
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/53bb31f7-dec7-4118-ace7-174141fdcd27" />
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/6996df85-012c-44e5-8bdb-1d80b538951d" />
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 
@@ -1046,6 +1086,7 @@ void clearDisplay()
 - ໃຊ້ຟັງຊັນ clearDisplay() ເພື່ອລ້າງຈໍສະແດງຜົນ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/jlZg5vfRxFs-lab-7segment>
+<img width="270" alt="image" src="https://github.com/user-attachments/assets/2f516594-cc10-499f-aa54-67cf07e24a33" />
 
 # ບົດທີ 9 Color Matching Sound Alarm System
 
@@ -1073,6 +1114,7 @@ Color Matching Sound Alarm System ເປັນລະບົບເຕືອນໄ�
 | RGB LED - Blue Pin (B) | 5   | ໃຊ້ PWM ສໍາລັບການຄວບຄຸມສີ. |
 | Buzzer | 6   | ຖືກນໍາໃຊ້ສໍາລັບເປັນສຽງເຕືອນ. |
 | LED | 2   | ສະຖານະ LED ຖືກນໍາໃຊ້ສໍາລັບການກະພິບແຈ້ງເຕືອນໃນແຕ່ລະລະດັບ. |
+<img width="334" alt="image" src="https://github.com/user-attachments/assets/48b20516-d658-4cda-b6cf-ad085ce3ce56" />
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 ```
@@ -1245,6 +1287,7 @@ void setRGBColor(int red, int green, int blue)
 - ທຸກໂໝດປ່ຽນສີໄຟ LED ແລະສຽງ buzzer ຕາມລະດັບການແຈ້ງເຕືອນ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/f6CRznSWixS-midterm-1>
+<img width="252" alt="image" src="https://github.com/user-attachments/assets/7066d633-172c-449a-b593-d7ea77902e90" />
 
 # ບົດທີ 10 See Battery with LED and Seven Segment
 
@@ -1277,6 +1320,8 @@ void setRGBColor(int red, int green, int blue)
 - ການ​ເຊື່ອມ​ຕໍ່​ວົງ​ຈອນ​ໄຟ​ຟ້າ​:
 - ເຊື່ອມຕໍ່ GND ຂອງ Arduino ກັບ GND ຂອງທຸກພາກສ່ວນ.
 - ໃຫ້ແນ່ໃຈວ່າການສະຫນອງພະລັງງານຂອງ Arduino ແມ່ນເຊື່ອມຕໍ່ກັບ 5V.
+<img width="429" alt="image" src="https://github.com/user-attachments/assets/6154fd45-6005-4611-a0d5-26922003166a" />
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/d58f4823-b98d-4823-a974-bda4d0bd24b5" />
 
 ### 4. **ໂຄດທີ່ໃຊ້**
 
@@ -1436,3 +1481,5 @@ void controlLEDs(int digit)
 - 7-9 (ພະລັງງານສູງ): LED ສີຂຽວເປີດ.
 
 ### 6. **ແຫຼ່ງອ້າງອີງ:** <https://www.tinkercad.com/things/1xraBZea3Rn-midterm-2>
+<img width="259" alt="image" src="https://github.com/user-attachments/assets/483990e7-97f8-4859-8ecb-422b6c2e3d35" />
+
