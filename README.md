@@ -1675,9 +1675,11 @@ delay(50);
 }
 ```
 5\. ຮູບວົງຈອນ
+
 <img width="271" alt="image" src="https://github.com/user-attachments/assets/1b46ce35-75f4-4c44-b638-afa0a4c6c1f9" />
 
 All Source Link
 
 <https://docs.google.com/spreadsheets/d/12mSJ2-Kfrz-K-JMLKxfk04L67xmCXRrQxpH3zJPbPO0/edit?usp=sharing>
+
 <img width="245" alt="image" src="https://github.com/user-attachments/assets/5cc23ddd-a586-4488-a458-73d2b41ac235" />
